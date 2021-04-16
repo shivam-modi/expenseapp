@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## About 
+This app help you maintain and show your weekly expenses using charts 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
